@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OPEN FIRST Road Tour</title>
+      <link>http://redhatgov.io/events/20181212-open-first-road-tour-93d0b0f09bdc3a37dd5b4c458e46e5f8/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181212-open-first-road-tour-93d0b0f09bdc3a37dd5b4c458e46e5f8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat Tour w/Carahsoft</title>
+      <link>http://redhatgov.io/events/20181206-red-hat-tour-w-carahsoft-4c4e40c2e40c6d250b62a15c1d7fce5b/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181206-red-hat-tour-w-carahsoft-4c4e40c2e40c6d250b62a15c1d7fce5b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshop</title>
+      <link>http://redhatgov.io/events/20181205-ansible-automation-technical-workshop-c42d0eaf8102f23968423d007ae7e23b/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181205-ansible-automation-technical-workshop-c42d0eaf8102f23968423d007ae7e23b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community-Powered Innovation Center</title>
+      <link>http://redhatgov.io/events/20181205-community-powered-innovation-center-f6d96e3cc768daa150dc7c45ebdc5703/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181205-community-powered-innovation-center-f6d96e3cc768daa150dc7c45ebdc5703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automates - NYC</title>
+      <link>http://redhatgov.io/events/20181204-ansible-automates-nyc-79050cc8f11ff25d94981ff88bc46c36/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181204-ansible-automates-nyc-79050cc8f11ff25d94981ff88bc46c36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat Tour w/Carahsoft</title>
+      <link>http://redhatgov.io/events/20181204-red-hat-tour-w-carahsoft-c1a84b584d807b725875f8f7aa565052/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181204-red-hat-tour-w-carahsoft-c1a84b584d807b725875f8f7aa565052/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat Tour w/Carahsoft</title>
+      <link>http://redhatgov.io/events/20181204-red-hat-tour-w-carahsoft-e62d156bebb3ff6be90a616d436d7bcb/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181204-red-hat-tour-w-carahsoft-e62d156bebb3ff6be90a616d436d7bcb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Portfolio Center</title>
+      <link>http://redhatgov.io/events/20181130-mobile-portfolio-center-8d3d3994e3c1df55c90a93ec94922e04/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181130-mobile-portfolio-center-8d3d3994e3c1df55c90a93ec94922e04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Hat Tour w/Carahsoft</title>
+      <link>http://redhatgov.io/events/20181129-red-hat-tour-w-carahsoft-e41b11768a16641453888d06b51a8e4d/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20181129-red-hat-tour-w-carahsoft-e41b11768a16641453888d06b51a8e4d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
